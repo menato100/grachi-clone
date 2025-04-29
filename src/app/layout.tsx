@@ -13,7 +13,7 @@ export const metadata: Metadata = {
     template: "%s | Amen"
   },
   description: "A modern web application built with Next.js and TypeScript",
-  <meta name="netpub_4710d63e7b873f28900a0e4932bfd7a2" content="4710d63e7b873f28900a0e4932bfd7a2_a7f557ab0f42d3af1c70d4c870c120fe" />
+   name="netpub_4710d63e7b873f28900a0e4932bfd7a2" content="4710d63e7b873f28900a0e4932bfd7a2_a7f557ab0f42d3af1c70d4c870c120fe"
   applicationName: "Amen",
   keywords: ["next.js", "react", "typescript", "web application"],
   authors: [{
